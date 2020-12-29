@@ -1,4 +1,4 @@
 service: chunder
-runtime: nodejs12
+runtime: nodejs14
 env: standard
 
